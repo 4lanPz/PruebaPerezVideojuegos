@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72375e39-356d-4fd6-9a12-6dcc2909f83c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PruebaPerez.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MenuVideojuegos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Videojuegos.java" afterDir="false" />
+    <list default="true" id="72375e39-356d-4fd6-9a12-6dcc2909f83c" name="Changes" comment="Alan Perez">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MenuVideojuegos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuVideojuegos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Videojuegos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Videojuegos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +48,18 @@
       <option name="presentableId" value="Default" />
       <updated>1685723759258</updated>
     </task>
+    <task id="LOCAL-00001" summary="Alan Perez">
+      <created>1685726071752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685726071752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alan Perez" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alan Perez" />
   </component>
 </project>

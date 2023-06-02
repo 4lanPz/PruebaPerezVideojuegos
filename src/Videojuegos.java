@@ -1,11 +1,12 @@
 public class Videojuegos {
+    //Se crea los atributos
     String nombre;
     String plataforma;
     int salida;
     String creador;
     int precio;
     String genero;
-
+ //se crea el constructor dando click derecho y constructor para idicar los punteros
     public Videojuegos(String nombre, String plataforma, int salida, String creador, int precio, String genero) {
         this.nombre = nombre;
         this.plataforma = plataforma;
@@ -14,7 +15,7 @@ public class Videojuegos {
         this.precio = precio;
         this.genero = genero;
     }
-
+    //se crea los getters y setters dando click derecho y setters y getters en donde se va a enviar y recibir datos
     public String getNombre() {
         return nombre;
     }
@@ -62,7 +63,7 @@ public class Videojuegos {
     public void setGenero(String genero) {
         this.genero = genero;
     }
-
+    //se crea la funcion para imprimir datos en la cual tambien se agregaron palabras concatenadas con el valor a imprimir, indicando que es cada cosa
     public void imprimirDatos(){
         System.out.println("Nombre: "+this.nombre);
         System.out.println("Plataforma: "+this.plataforma);
