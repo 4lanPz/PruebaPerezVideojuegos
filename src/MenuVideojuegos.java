@@ -1,8 +1,9 @@
 import java.util.Scanner;
 public class MenuVideojuegos {
-    //eb esta clase se va a realizar el codigo de crear las instancias y llamar a la funcion para imprimir los datos que se agregen
+    //en esta public class se va a realizar el codigo de crear las instancias y llamar a la funcion para imprimir los datos que se agregen
     public static void main(String[] args){
         //se crea las instancias de los juegos indicando los juegos y sus atributos
+        //se crea las 5 instancias llamadas juegos indicando nombres, etc.
         Videojuegos Juego1 = new Videojuegos("Apex Legends", "PC/PS/XBOX", 2018, "EA",0, "FPS");
         Videojuegos Juego2 = new Videojuegos("Dead by Daylight", "PC/PS/XBOX", 2016, "BeHaviour",30,"Horror");
         Videojuegos Juego3 = new Videojuegos("Left 4 dead", "PC/XBOX", 2002, "Valve",15,"Shooter/Horror/COOP");

@@ -6,7 +6,7 @@ public class Videojuegos {
     String creador;
     int precio;
     String genero;
- //se crea el constructor dando click derecho y constructor para idicar los punteros
+ //se crea el constructor dando click derecho y constructor para idicar los punteros de donde se guarda los valores
     public Videojuegos(String nombre, String plataforma, int salida, String creador, int precio, String genero) {
         this.nombre = nombre;
         this.plataforma = plataforma;
@@ -16,6 +16,8 @@ public class Videojuegos {
         this.genero = genero;
     }
     //se crea los getters y setters dando click derecho y setters y getters en donde se va a enviar y recibir datos
+    //esto se crea automaticamente al dar click derecho y setters and getters
+    //esto con los atributos anteriormente assignados
     public String getNombre() {
         return nombre;
     }
